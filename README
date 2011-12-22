@@ -1,0 +1,6 @@
+Highlights include:
+
+* solarized color theme with overrides that make sense for ReSharper
+* ctrl-shift-c -> run tests (TestDriven.NET)
+* ctrl-shift-x -> rerun tests (TestDriven.NET)
+* shift-del -> delete line (instead of "cut", which is incredibly annoying)
